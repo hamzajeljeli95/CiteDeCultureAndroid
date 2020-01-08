@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cité de la Culture</string>
+    <string name="loading">Chargement en cours ...</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="intro">Présentation</string>
+    <string name="news">Actualités</string>
+    <string name="events">Événements</string>
+    <string name="visit">Visiter la cité</string>
+    <string name="contact">Contactez Nous</string>
+    <string name="gallery">Galerie</string>
+    <string name="banner">Cité de la Culture - Tunis</string>
+    <string name="please_wait">Veuillez Patienter</string>
+    <string name="share">Partager</string>
+    <string name="addToCal">Ajouter au Calendrier</string>
+    <string name="details">Détails</string>
+    <string name="share_via">Partager via</string>
+    <string name="subject">Sujet</string>
+    <string name="content">Contenu</string>
+    <string name="send">Envoyer</string>
+    <string name="hint"><![CDATA[<font color=\"#ffffff\">Veuillez renseigner tous les champs.</font>]]></string>
+    <string name="hintcnx"><![CDATA[<font color=\"#ffffff\">verifiez votre connexion internet et réessayez</font>]]></string>
+    <string name="hint1">Veuillez choisir le Client Email :</string>
+    <string name="info">Adresse : Avenue Mohamed 5, Tunis\nTéléphone : 70 028 330</string>
+    <string name="hint3">Envoyer un mail</string>
+    <string name="chkinternet">Verifiez votre connexion internet et réessayez.</string>
+    <string name="o">OK</string>
+    <string name="err">Erreur</string>
+</resources>
